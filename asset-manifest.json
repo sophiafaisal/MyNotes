@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sophiafaisal/MyNotes.git/static/css/main.79aba5e0.css",
+    "main.js": "/sophiafaisal/MyNotes.git/static/js/main.65724578.js",
+    "static/js/453.cf291aa0.chunk.js": "/sophiafaisal/MyNotes.git/static/js/453.cf291aa0.chunk.js",
+    "index.html": "/sophiafaisal/MyNotes.git/index.html",
+    "main.79aba5e0.css.map": "/sophiafaisal/MyNotes.git/static/css/main.79aba5e0.css.map",
+    "main.65724578.js.map": "/sophiafaisal/MyNotes.git/static/js/main.65724578.js.map",
+    "453.cf291aa0.chunk.js.map": "/sophiafaisal/MyNotes.git/static/js/453.cf291aa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79aba5e0.css",
+    "static/js/main.65724578.js"
+  ]
+}
